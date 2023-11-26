@@ -9,3 +9,7 @@ hello()
 \description{
 This function just says hello.
 }
+\examples{
+hello()
+
+}
